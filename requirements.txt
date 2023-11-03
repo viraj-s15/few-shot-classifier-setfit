@@ -1,0 +1,5 @@
+scikit-learn
+'setfit[optuna]'
+datasets
+pandas
+numpy
