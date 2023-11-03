@@ -2,7 +2,7 @@
 name = "few-shot-setkit"
 version = "0.1.0"
 description = "A few shot training script for mpnet"
-authors = ["viraj-s15 <veer15102003@gmail.com>"]
+authors = ["viraj-s15 <viraj.v.shah03@gmail.com>"]
 license = "MIT"
 readme = "README.md"
 
