@@ -26,6 +26,10 @@ python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
 ```
+There is an option to use poetry as well.
+Simply run the below command and it will setup the environment for you
+
+`poetry install`
 
 ## Usage <a name = "usage"></a>
 
